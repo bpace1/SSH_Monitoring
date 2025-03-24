@@ -27,7 +27,7 @@
 ```
 11.
 ``` 
-sudo systemctl restart ssh
+  > sudo systemctl restart ssh
 ```
 12. Test it.
 
